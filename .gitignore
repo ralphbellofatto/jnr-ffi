@@ -4,6 +4,10 @@
 *~
 .idea
 *.iml
+Snap.*.trc
+core.*.dmp
+javacore.*.txt
+jitdump.*.dmp
 nbproject/private
 build
 dist
